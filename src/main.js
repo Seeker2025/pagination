@@ -67,9 +67,9 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   const pagination2 = new Pagination(container, {
-    totalItems: 21,
-    itemsPerPage: 10,
-    visiblePages: 5,
+    totalItems: 7,
+    itemsPerPage:2,
+    visiblePages: 2,
     centerAlign: true
   });
 
