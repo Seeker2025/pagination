@@ -1,6 +1,6 @@
 console.log('main');
 import Pagination from 'tui-pagination';
-// import './css/styles.css';
+import './css/styles.css';
 import 'tui-pagination/dist/tui-pagination.css';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -23,5 +23,3 @@ document.addEventListener('DOMContentLoaded', () => {
   // Example: read current page
   console.log('current page:', pagination2.getCurrentPage());
 });
-
-
