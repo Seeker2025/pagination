@@ -1,6 +1,6 @@
 console.log('main');
 import Pagination from 'tui-pagination';
-import './css/styles.css';
+// import './css/styles.css';
 import 'tui-pagination/dist/tui-pagination.css';
 
 
